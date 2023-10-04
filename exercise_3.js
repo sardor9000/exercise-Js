@@ -191,3 +191,11 @@
 // console.log(menu);
 
  
+
+
+function hey(a, b){
+    return a * b
+}
+
+const result = hey(10, 5)
+console.log(result);
