@@ -97,8 +97,15 @@
 // getStr("hello")
 
 
-const 
 
 
 
 
+////I- Task////
+function getCompute(array) {
+    array.push(array.shift());
+    return array;
+  }
+  
+  let result = getCompute(['h', 'e', 'l', 'l', 'o']);
+  console.log(result);
