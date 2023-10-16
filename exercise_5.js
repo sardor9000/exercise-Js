@@ -110,3 +110,4 @@ function getCompute(array) {
   let result = getCompute(['h', 'e', 'l', 'l', 'o']);
   console.log(result);
   console.log("hello");
+  console.log('byeeeee');
